@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+p,
+n1, 
+n5 {
+  color: black;
+  background-color: hsl(6, 93%, 80%);
+  font-size: large;  
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}/* Add CSS Styling */
+
+
+#n2 {
+  color: blue;
+  font-size: 36px;  
+}
+
+#n3 {
+  font-size: 24px;
+}
+
+#n4 {
+  background-color: hsl(111, 100%, 80%);
+  color: black;
+  font-weight: bolder;
+  font-size: 24px;
+}
