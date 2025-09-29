@@ -17,3 +17,14 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+  
+  /* Inizio */
+  
+button {
+  transition: transform .03s ease-in-out;
+}
+
+
+button:hover {
+  transform: scale(1.02);
+}
